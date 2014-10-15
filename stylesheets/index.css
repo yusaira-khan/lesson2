@@ -1,3 +1,6 @@
 body{
- background=#62442
+ background-color=#62442
+}
+li#special-list-item {
+ color=#ff0000
 }
